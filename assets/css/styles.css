@@ -455,10 +455,71 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__html{
-    width: 90px;
+.skills__java{
+ width: 100%;
 }
 
+.skills__spring{
+    width: 85%;
+}
+
+.skills__jpa{
+    width: 80%;
+}
+
+.skills__test{
+    width: 75%;
+}
+
+.skills__jsf{
+    width: 95%;
+}
+
+.skills__angular{
+    width: 50%;
+}
+
+.skills__js{
+    width: 50%;
+}
+
+.skills__html{
+    width: 80%;
+}
+
+.skills__maven{
+    width: 100%;
+}
+.skills__jenkins{
+    width: 70%;
+}
+
+.skills__git{
+    width: 100%;
+}
+
+.skills__docker{
+    width: 60%;
+}
+
+.skills__list{
+    row-gap: 1.5rem;
+    padding-left: 2.7rem;
+}
+
+.skills__close .skills__list{
+    height: 0;
+    overflow: hidden;
+}
+
+.skills__open .skills__list{
+    height: max-content;
+    margin-bottom: var(--mb-2-5);
+}
+
+.skills__open .skills__arrow{
+    transform: rotate(-180deg);
+}
 /*==================== QUALIFICATION ====================*/
 
 
