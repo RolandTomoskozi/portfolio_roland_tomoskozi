@@ -9,7 +9,8 @@ High level experience in web development, producing quality work.
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+I’ve always been someone who has both a creative and a logical side. When I discovered web development in college, I
+realized it would be the perfect fit. I could use my creative side to design and my logical side to code.</p>
 
 about__info-name
 Years <br> experience
@@ -32,7 +33,10 @@ Website adaptable to all devices, with ui components and animated interactions.
 
 * PROJECT
 project__description
-Contact me now and get a 30% discount on your new project.
+Have an exciting project where you need some help?
+I specialize in creating sites for individuals and small businesses. You shouldn’t have to settle for cheap solutions or
+generic templates. I provide custom designs at afforable prices. If you think I’d be a good match send me over a message
+and let's chat.
 
 
 * TESTIMONIAL
